@@ -75,7 +75,6 @@ for loop in range(1,int(number_of_loops)+1): #loop through each page
 
 driver.close()
 logging.info('Script Completed')
-exit()
 
-#if __name__ == "__main__":
-#    main()
+
+

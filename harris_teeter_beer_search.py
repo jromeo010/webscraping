@@ -93,6 +93,3 @@ logging.info('Script Completed')
 driver.close()
 
 exit()
-
-#if __name__ == "__main__":
-#    main()
